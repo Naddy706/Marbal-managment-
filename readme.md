@@ -1,7 +1,7 @@
 # Marbal Managment 
 
 ## Steps
-> download project
+> download project <br>
 > run composer install in root folder of the project
 > create .env and copy everything from .env.example 
 > set database username , password and database name in .env
